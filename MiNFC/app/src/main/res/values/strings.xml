@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pi NFC </string>
+    <string name="subtitulo">Raspberry Pi NFC </string>
+    <string name="luzSala">Luz Sala</string>
+    <string name="luzHabitacion">Luz Habitación</string>
+    <string name="desarrollado">Desarrollado por: \n Jefferson Rivera \n riverajefer@gmail.com</string>
+</resources>
